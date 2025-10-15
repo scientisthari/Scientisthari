@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Hari Prasad
-- 👀 I’m interested in  new invention in iot   ...
-- 🌱 I’m currently learning make websites and apps ...
-- 💞️ I’m looking to collaborate on  ...
-- 📫 How to reach me  ...
+## 👋 Hi, I'm Hari Prasad
 
- 
-<!---
-Scientisthari/Scientisthari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I’m a **Mechanical Engineering student** passionate about **innovation, technology, and creative problem-solving**.  
+I love combining **reverse engineering, AI, and sustainable design** to create impactful real-world solutions.
+
+## 💡 Interests
+- Robotics & Embedded Systems  
+- Artificial Intelligence & Automation  
+- Product Design and Innovation  
+- Environmental and Space Research Projects  
+- Martial Arts, Fitness & Leadership Development  
+
+## 🧩 Skills
+- Programming: C, Python, Arduino, Raspberry Pi  
+- Design: Fusion 360, SolidWorks, AutoCAD  
+- Hardware: Sensors, Relays, Microcontrollers, IoT Integration  
+- Creative Thinking: Concept Design, Rapid Prototyping  
+
+## 🏆 Achievements
+- Mission Contributor — Satellite Deployer Project  and Grroud Station
+- 4× World Record Holder in**kung fu** **Silambam**  
+- Best Martial Arts Coach & International Gold Medalist  
+- Participated in multiple innovation and hackathon events  
+
