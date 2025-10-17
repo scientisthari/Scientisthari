@@ -18,7 +18,7 @@ I love combining **reverse engineering, AI, and sustainable design** to create i
 - Creative Thinking: Concept Design, Rapid Prototyping  
 
 ## 🏆 Achievements
-- Mission Contributor — Satellite Deployer Project  and Grroud Station
+- Mission Contributor — Satellite Deployer Project  and Groud Station
 - 4× World Record Holder in **kung fu** and **Silambam**  
 - Best Martial Arts Coach & International Gold Medalist  
 - Participated in multiple innovation and hackathon events  
