@@ -19,7 +19,7 @@ I love combining **reverse engineering, AI, and sustainable design** to create i
 
 ## 🏆 Achievements
 - Mission Contributor — Satellite Deployer Project  and Grroud Station
-- 4× World Record Holder in**kung fu** and **Silambam**  
+- 4× World Record Holder in **kung fu** and **Silambam**  
 - Best Martial Arts Coach & International Gold Medalist  
 - Participated in multiple innovation and hackathon events  
 
